@@ -1,0 +1,19 @@
+{
+  "name": "vue-reactivity-demo",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vue/reactivity": "^3.3.4"
+  },
+  "devDependencies": {
+    "ava": "^5.3.1"
+  }
+}
